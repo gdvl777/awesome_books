@@ -116,8 +116,8 @@ To run tests, run the following command: you just need a simple web browser to r
 👤 **Author2**
 
 -   GitHub: [@githubhandle](https://github.com/HFG43)
--   Twitter: [@twitterhandle](https://twitter.com/HFG_43)
--   LinkedIn: [LinkedIn](https://www.linkedin.com/in/hern%C3%A1n-g%C3%BCemes-a440591b/)
+-   Twitter: [@twitterhandle](https://twitter.com/abbaJdev)
+-   LinkedIn: [LinkedIn](https://www.linkedin.com/in/james-ugbedeojo-abah-356982159)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
