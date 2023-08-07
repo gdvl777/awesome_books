@@ -89,7 +89,7 @@ In order to run this project you need: you need to know the basic of HTML5, Java
 
 ### Setup
 
-Clone this repository to your desired folder: https://github.com/ClaudiaRojasSoto/Awesoem_Books.git
+Clone this repository to your desired folder: https://github.com/gdvl777/Awesome_Books.git
 
 ### Install
 
@@ -136,7 +136,7 @@ To run tests, run the following command: you just need a simple web browser to r
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/gdvl777/Awesoem_Books/issues).
+Feel free to check the [issues page](https://github.com/gdvl777/Awesome_Books/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
