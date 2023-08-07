@@ -152,7 +152,7 @@ Feel free to check the [issues page](https://github.com/gdvl777/Awesome_Books/is
 
 > -   Microverse for providing the opportunity to learn Git and GitHub in a collaborative environment.
 
-> -   GitHub Docs for providing a wealth of information on Git and GitHub.
+> -   GitHub Docs for providing accurate information on Git and GitHub.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
